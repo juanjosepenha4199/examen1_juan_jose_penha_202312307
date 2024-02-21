@@ -6,7 +6,7 @@ import logica.mujer;
 public class presentacion {
     public static void main(String[] args) {
     	
-        hombre hombre = new hombre(80, 175, 30);
+        hombre hombre = new hombre(20, 175, 30);
         mujer mujer = new mujer(60, 160, 25);
         
         calculadora calculadoraTMB = new calculadora();

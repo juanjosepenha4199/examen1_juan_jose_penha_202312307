@@ -6,6 +6,6 @@ public class mujer extends Persona {
 
 	}
 	public float calcularTMB() {
-		return (88.362f + (13.397f * peso) + (4.799f * altura) - (5.677f * edad));
+		return 447.593f + (9.247f * peso) + (3.098f * altura) - (4.33f * edad);
 	}
 }
